@@ -1,0 +1,41 @@
+header{
+    background-color: rgb(10, 106, 190);
+    line-height: 1.6;
+    text-align: center;
+    padding: 2rem;
+}
+nav{
+    background-color:blanchedalmond;
+    padding: 1rem;
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+    display: inline;
+}
+nav a{
+    color: rgb(124, 40, 40);
+    font-weight: bold;
+}
+#about{
+    padding: 2rem;
+    background-color: violet;
+    margin: 1rem;
+}
+#projects{
+
+    padding: 2rem;
+    background-color: blanchedalmond;
+    font-size: large;
+}
+#contacts{
+    padding: 2rem;
+    background-color: blueviolet;
+}
+footer{
+    text-align: center;
+    background-color: yellowgreen;
+    padding: 1rem;
+}
